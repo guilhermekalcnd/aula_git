@@ -13,7 +13,7 @@ $dados = carregarDados();
 <body>
 
 <h1>Controle de Gastos</h1>
-
+<p id = "Johnny">Tristan. Lay down.</p>
 <div id="resumo">
     <p>Total: R$ <span id="total">0</span></p>
 </div>
