@@ -6,3 +6,6 @@ Cada aluno deve:
 2. Criar seu arquivo em /data
 3. Adicionar seus gastos/receitas
 4. Fazer commit e push
+
+
+Someones at the door?
