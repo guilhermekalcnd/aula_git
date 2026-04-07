@@ -1,17 +1,31 @@
 <?php
 return [
     [
-        'descricao' => 'Almoço',
-        'valor' => 25.50,
-        'tipo' => 'gasto', // gasto | receita
-        'categoria' => 'alimentacao',
-        'autor' => 'seu-nome'
+        'descricao' => 'Presente da namorada',
+        'valor' => 235.75,
+        'tipo' => 'gasto', 
+        'categoria' => 'presentes',
+        'autor' => 'Rafael'
     ],
     [
-        'descricao' => 'Freela',
-        'valor' => 150,
+        'descricao' => 'Job👁️',
+        'valor' => 1500,
         'tipo' => 'receita',
         'categoria' => 'trabalho',
-        'autor' => 'seu-nome'
+        'autor' => 'Rafael'
+    ],
+    [
+        'descricao' => 'Balinhas hidrogenadas',
+        'valor' => 3847583783685,
+        'tipo' => 'gasto',
+        'categoria' => 'lazer',
+        'autor' => 'Rafael'
+    ],
+        [
+        'descricao' => 'Propina pro Gui bloquear Scratch',
+        'valor' => 150,
+        'tipo' => 'gasto',
+        'categoria' => 'escola',
+        'autor' => 'Rafael'
     ]
 ];
