@@ -27,5 +27,13 @@ return [
         'tipo' => 'gasto',
         'categoria' => 'escola',
         'autor' => 'Rafael'
+    ],
+    
+     [
+        'descricao' => 'Ding Dong! Someones at the door',
+        'valor' => 0,
+        'tipo' => 'gasto',
+        'categoria' => 'corn',
+        'autor' => 'Tristan'
     ]
 ];
