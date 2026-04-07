@@ -8,4 +8,3 @@ Cada aluno deve:
 4. Fazer commit e push
 
 
-Someones at the door?
