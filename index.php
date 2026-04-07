@@ -12,7 +12,7 @@ $dados = carregarDados();
 </head>
 <body>
 
-<h1>💸 Controle de Gastos</h1>
+<h1> Controle de Gastos</h1>
 
 <div id="resumo">
     <p>Total: R$ <span id="total">0</span></p>
@@ -30,6 +30,8 @@ $dados = carregarDados();
     </thead>
     <tbody id="tabela"></tbody>
 </table>
+
+<p>TESTE</p>
 
 <script>
 const dados = <?php echo json_encode($dados); ?>;
